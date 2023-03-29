@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a82d477687752110934021b7dabb353f" extends="task" label="Maker Checker Task" max_length="40" name="x_snc_maker_chec_0_maker_checker_task" type="collection">
+        <element label="Branch" max_length="40" name="branch" type="string"/>
+        <element label="Checker" max_length="32" name="checker" reference="sys_user" type="reference"/>
+        <element label="Cost Center" max_length="40" name="cost_center" type="string"/>
+        <element label="Counterparty ID" max_length="40" name="counterparty_id" type="string"/>
+        <element label="Customer ID" max_length="40" name="customer_id" type="string"/>
+        <element label="Maker Role" max_length="40" name="maker_role" type="string"/>
+        <element label="Process Type" max_length="40" name="process_type" type="string"/>
+    </element>
+</database>

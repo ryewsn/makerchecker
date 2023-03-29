@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">213ab52a87112110934021b7dabb3577</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>rafael</sys_created_by>
+        <sys_created_on>2023-03-29 15:54:47</sys_created_on>
+        <sys_id>e02d477687752110934021b7dabb3555</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Maker Checker App" source="x_snc_maker_chec_0">c1eccf3687752110934021b7dabb35f4</sys_package>
+        <sys_updated_by>rafael</sys_updated_by>
+        <sys_updated_on>2023-03-29 15:54:47</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

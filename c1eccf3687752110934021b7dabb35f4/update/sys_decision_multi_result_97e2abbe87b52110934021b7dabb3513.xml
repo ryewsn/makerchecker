@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_multi_result">
+    <sys_decision_multi_result action="INSERT_OR_UPDATE">
+        <decision_table display_value="Parallel Approver Logic">0f44db7e87752110934021b7dabb35e3</decision_table>
+        <label>Approval Group: Legal</label>
+        <result_elements/>
+        <sys_class_name>sys_decision_multi_result</sys_class_name>
+        <sys_created_by>rafael</sys_created_by>
+        <sys_created_on>2023-03-29 17:30:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>97e2abbe87b52110934021b7dabb3513</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approval Group: Legal</sys_name>
+        <sys_package display_value="Maker Checker App" source="x_snc_maker_chec_0">c1eccf3687752110934021b7dabb35f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Maker Checker App">c1eccf3687752110934021b7dabb35f4</sys_scope>
+        <sys_update_name>sys_decision_multi_result_97e2abbe87b52110934021b7dabb3513</sys_update_name>
+        <sys_updated_by>rafael</sys_updated_by>
+        <sys_updated_on>2023-03-29 17:30:00</sys_updated_on>
+    </sys_decision_multi_result>
+    <sys_variable_value action="delete_multiple" query="document_key=97e2abbe87b52110934021b7dabb3513"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_decision_multi_result</document>
+        <document_key>97e2abbe87b52110934021b7dabb3513</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>rafael</sys_created_by>
+        <sys_created_on>2023-03-29 17:30:00</sys_created_on>
+        <sys_id>dfe2abbe87b52110934021b7dabb3513</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>rafael</sys_updated_by>
+        <sys_updated_on>2023-03-29 17:30:00</sys_updated_on>
+        <value>b9d1237e87b52110934021b7dabb3555</value>
+        <variable display_value="Approval Group">37e5d73e87752110934021b7dabb357a</variable>
+    </sys_variable_value>
+</record_update>
